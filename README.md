@@ -1,1 +1,2 @@
-Compare beta model 1.0
+#Cart beta model 1.0
+Sample project with react
