@@ -1,2 +1,1 @@
-# ecommerce
-ecommerce page with react
+Compare beta model 1.0
