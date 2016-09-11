@@ -1,7 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sample project with react",
   "main": "webpack.config.js",
   "dependencies": {
     "babel": "^6.5.2",
@@ -33,5 +33,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Narayan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narayananperumba/ecommerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/narayananperumba/ecommerce/issues"
+  },
+  "homepage": "https://github.com/narayananperumba/ecommerce#readme"
 }
