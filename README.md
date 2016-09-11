@@ -4,7 +4,7 @@ Sample project with react
 ## Tech Specification
 - Node v5.4.0
 - npm  v3.5.2
-- React
+- React v0.14.7
 
 ## How to start
 Clone this repo into new project folder (e.g., `cart`).
